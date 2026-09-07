@@ -37,6 +37,6 @@ This repository contains the projects and tasks completed during the Web Develop
 
 ## Author
 
-- **Name:** Divyansh Maddheshiya
-- **LinkedIn:** [Divyansh](https://www.linkedin.com/in/Shashankmall2005/)
+- **Name:** Shashank Mall
+- **LinkedIn:** [Shashank](https://www.linkedin.com/in/Shashankmall2005/)
 - **GitHub:** [GitHub Profile](https://github.com/Shashankmall2005)
